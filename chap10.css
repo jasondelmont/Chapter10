@@ -101,6 +101,7 @@ display: none;
 table {
 	border: 2px solid #00008B;
 	border-collapse: collapse;
+	background-color: #FFFFFF;
 }
 
 td, th {
